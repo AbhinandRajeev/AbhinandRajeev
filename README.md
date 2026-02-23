@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Abhinand Rajeev <br>A passionate MERN Stack Developer who loves building scalable, modern, and user-friendly web applications.<br><br>I enjoy transforming ideas into real-world digital products using clean code, optimized performance, and responsive design.
 
 
