@@ -3,6 +3,7 @@ Hi, I'm Abhinand Rajeev <br>A passionate MERN Stack Developer who loves building
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://abhinandrajeevportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinand-rajeev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinandrajeev10@gmail.com) 
 
 # 💻 Tech Stack:
